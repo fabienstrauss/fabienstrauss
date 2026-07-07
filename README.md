@@ -1,17 +1,18 @@
 # 👋 Hey there, I’m Fabien
 
-I’m a **Computer Science Master’s** student from Berlin.
+I’m a Software Engineer @ Reonic from Berlin.
 
 ## 🔭 What I’m working on
 
 - Revamping my portfolio (because it’s never quite done)
 - Building a ThreeJS Travel Globe
 - Developing ThreadGuessr, a Reddit game powered by Devvit and questionable internet humor
+- Bringing hackathon ducktaped apps to prod ready versions (e.g. Aetia Flow)
   
 ## 🌱 What I’m learning
 
+- Being a good dev 🤓
 - How to survive hackathons (and maybe even win one)
-- Machine Learning at university, teaching machines to think... or at least pretend to
 - Experimenting with new technologies and figuring out how to turn wild ideas into working applications
 
 ## ⚡ Fun fact
